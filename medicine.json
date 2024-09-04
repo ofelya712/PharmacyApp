@@ -1,0 +1,32 @@
+{
+  "medicine": [
+    {
+      "id": "101",
+      "picture": "https://naturesfieldng.com/wp-content/uploads/2024/03/Vitamin-A-10000iu-1.webp",
+      "name": "Vitamin A",
+      "price": 300,
+      "rating": 3
+    },
+    {
+      "id": "102",
+      "picture": "https://webbernaturals.com/cdn/shop/products/hldyomk5zlk6ptaxjzrf.png?v=1702337846",
+      "name": "Vitamin C",
+      "price": 250,
+      "rating": 4
+    },
+    {
+      "id": "103",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVkB7f4cblP75RI5F-D0BaSMdILOJcB3AHQ&s",
+      "name": "Vitamin B",
+      "price": 260,
+      "rating": 5
+    },
+    {
+      "id": "104",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7GeVgeeR4Z0AXTxoO6HOUevMS-3r-YC0Ig&s",
+      "name": "Vitamin D",
+      "price": 350,
+      "rating": 3
+    }
+  ]
+}
